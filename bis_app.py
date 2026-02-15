@@ -133,5 +133,4 @@ for asset in MOCK_ASSETS:
         st.divider()
 
 # Footer
-st.markdown("---")
 st.markdown("© 2024 Typeface Inc. | Prototype for Internal Use Only")
